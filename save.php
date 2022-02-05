@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>BDW - Maria Eduarda Fernandes Lago</title>
+	<title>BDW - Matheus Bonfim Dantas</title>
 </head>
 
 <body>
