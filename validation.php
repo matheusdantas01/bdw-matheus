@@ -20,10 +20,10 @@
     $_SESSION["email"]=$email;
 
 
-    $servername = "sql308.epizy.com";
-    $username = "epiz_30293426";
-    $password = "qQS2qbYktI4xDKu";
-    $dbname = "epiz_30293426_mybank";
+        $servername = "sql301.epizy.com";
+	$username = "epiz_30990652";
+        $password = "w6gfe7EaHOb";
+        $dbname = "epiz_30990652_meubanco";
 
 
     // Create connection
